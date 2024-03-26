@@ -78,7 +78,7 @@
 
 #define MAX_HOPS 255
 #define MAX_HOP_FAILURES MAX_HOPS
-#define MAX_PROBES 10
+#define MAX_PROBES 30
 #define MAX_GATEWAYS_4 8
 #define MAX_GATEWAYS_6 127
 #define MAX_MTU_RETRIES 3
